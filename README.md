@@ -1,1 +1,1 @@
-# CSCC-PH-Workshop
+# CSCC-PHP-Workshop
